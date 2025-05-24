@@ -1,5 +1,6 @@
 # Exp - 5 STUDENT ENROLLMENT SYSTEM
-
+# Name: Saranya S 
+# Register number: 212223110044
 # AIM:
 To create UML diagrams for Student Enrollment System
 
